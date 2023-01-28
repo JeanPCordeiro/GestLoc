@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://8000-jeanpcordeiro-gestloc-62r4lttmstl.ws-eu84.gitpod.io'),
 
     'asset_url' => env('ASSET_URL'),
 

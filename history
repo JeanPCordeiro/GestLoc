@@ -1,0 +1,42 @@
+    1  php artisan make:model Post -m 
+    2  php artisan migrate
+    3  php artisan make:filament-resource PostResource
+    4  cd public
+    5  ls
+    6  mkdir livewire
+    7  ln -s preview-file ../../storage/app/public/livewire-tmp
+    8  ln -s preview-file ../storage/app/public/livewire-tmp
+    9  cd livewire/
+   10  ln -s preview-file ../../storage/app/public/livewire-tmp
+   11  rm ../../storage/app/public/livewire-tmp
+   12  ln -s preview-file ../../storage/app/public/livewire-tmp
+   13  cd 
+   14  pwd
+   15  cd /workspace/GestLoc/
+   16  cd storage/app/
+   17  ls
+   18  chmod 755 -r public
+   19  chmod 755 -r public/
+   20  chmod 755 -r public/*
+   21  ls mod
+   22  ls
+   23  ls -l
+   24  chmod 777 public
+   25  ls -l
+   26  cd public/
+   27  ls -l
+   28  cd ..
+   29  chmod -r 777 public
+   30  chmod 755 -r public
+   31  chmod 755 public
+   32  chmod 755 public -r
+   33  chmod 755 public -R
+   34  ls -l
+   35  chmod 755 public
+   36  ls -l public/
+   37  php artisan storage:link
+   38  cd ..
+   39  php artisan storage:link
+   40  hisotry
+   41  history
+   42  history > history
